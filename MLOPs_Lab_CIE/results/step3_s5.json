@@ -1,0 +1,23 @@
+{
+    "total_predictions": 33,
+    "mean_prediction": 0.0,
+    "drift_detected": true,
+    "alerts": [
+        {
+            "feature": "prompt_token_count",
+            "train_mean": 450.56,
+            "live_mean": 392.42424242424244,
+            "shift": 58.135757575757566,
+            "threshold": 272.06,
+            "status": "OK"
+        },
+        {
+            "feature": "system_prompt_length",
+            "train_mean": 926.0,
+            "live_mean": 588.3030303030303,
+            "shift": 337.69696969696975,
+            "threshold": 322.36,
+            "status": "ALERT"
+        }
+    ]
+}

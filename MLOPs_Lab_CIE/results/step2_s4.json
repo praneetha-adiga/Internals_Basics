@@ -1,0 +1,16 @@
+{
+    "health_endpoint": "/heartbeat",
+    "predict_endpoint": "/predict",
+    "port": 8080,
+    "health_response": {
+        "status": "operational",
+        "service": "PromptLab API"
+    },
+    "test_input": {
+        "prompt_token_count": 470,
+        "system_prompt_length": 682,
+        "temperature": 0.8,
+        "is_few_shot": 1
+    },
+    "prediction": 7.143924664582242
+}
