@@ -1,0 +1,10 @@
+artifact_location: file:C:/Users/Praneetha adiga/Documents/-Internals_Basics/MLOPs_Lab_CIE/mlruns/589165660044110420/models/m-1c8a67c466ee4f0893f84be5f1cc436e/artifacts
+creation_timestamp: 1777866064944
+experiment_id: '589165660044110420'
+last_updated_timestamp: 1777866074628
+model_id: m-1c8a67c466ee4f0893f84be5f1cc436e
+model_type: null
+name: model
+source_run_id: cd22c9a013df43a3b989706f16864866
+status: 2
+status_message: null
